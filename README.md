@@ -22,7 +22,6 @@ Web scraping to extract more than 300 job listings related to Python roles from 
 2. **Location**:
     - **Data Type**: String
     - **Description**: Location or city associated with the job posting.
-    
 3. **Founded**:
     - **Data Type**: Integer or String
     - **Description**: Year of establishment of the company offering the job.
