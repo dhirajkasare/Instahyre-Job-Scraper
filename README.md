@@ -1,0 +1,2 @@
+# Instahyre-Scraping-Project
+ Python pandas Selenium Web Scraping Extracted and cleaned over 300 Python job listings from Instahyre using Python and Selenium, ensuring data accuracy and completeness. Organized data into a structured dataset with job details like title, location, and skills, facilitating clear analysis and reporting. Adhered to ethical web scraping practices, maintaining compliance with website terms of service and ensuring data integrity. Utilized Pandas for efficient data manipulation and CSV creation, enhancing data accessibility for analysis.
